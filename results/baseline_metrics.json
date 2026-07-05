@@ -1,0 +1,17 @@
+{
+  "model": "baseline_ground_truth",
+  "documents": 50,
+  "entity_precision": 1.0,
+  "entity_recall": 1.0,
+  "entity_f1": 1.0,
+  "relation_precision": 1.0,
+  "relation_recall": 1.0,
+  "relation_f1": 1.0,
+  "avg_processing_time_ms": 0.0603,
+  "total_entities_true": 2332,
+  "total_entities_pred": 2332,
+  "total_entities_correct": 2332,
+  "total_relations_true": 1064,
+  "total_relations_pred": 1064,
+  "total_relations_correct": 1064
+}

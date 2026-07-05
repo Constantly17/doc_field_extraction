@@ -1,0 +1,65 @@
+{
+  "splits": [
+    {
+      "split": "test",
+      "documents": 50,
+      "entities": 2332,
+      "relations": 2152,
+      "questions": 1077,
+      "answers": 821,
+      "headers": 122,
+      "others": 312,
+      "avg_entities_per_doc": 46.64,
+      "avg_relations_per_doc": 43.04
+    },
+    {
+      "split": "train",
+      "documents": 120,
+      "entities": 5995,
+      "relations": 6926,
+      "questions": 2606,
+      "answers": 2283,
+      "headers": 350,
+      "others": 756,
+      "avg_entities_per_doc": 49.96,
+      "avg_relations_per_doc": 57.72
+    },
+    {
+      "split": "val",
+      "documents": 29,
+      "entities": 1416,
+      "relations": 1546,
+      "questions": 660,
+      "answers": 519,
+      "headers": 91,
+      "others": 146,
+      "avg_entities_per_doc": 48.83,
+      "avg_relations_per_doc": 53.31
+    }
+  ],
+  "labels": [
+    {
+      "label": "answer",
+      "count": 3623,
+      "percent": 37.19
+    },
+    {
+      "label": "header",
+      "count": 563,
+      "percent": 5.78
+    },
+    {
+      "label": "other",
+      "count": 1214,
+      "percent": 12.46
+    },
+    {
+      "label": "question",
+      "count": 4343,
+      "percent": 44.58
+    }
+  ],
+  "documents_total": 199,
+  "entities_total": 9743,
+  "relations_total": 10624
+}

@@ -1,0 +1,236 @@
+[
+  {
+    "document_id": "82254765",
+    "model": "LayoutLMv3",
+    "processing_time_ms": 0.309,
+    "extracted_fields": 34,
+    "total_entities": 47,
+    "total_relations": 38,
+    "timestamp": "2026-07-05 23:32:46"
+  },
+  {
+    "document_id": "82504862",
+    "model": "LayoutLMv3",
+    "processing_time_ms": 0.16,
+    "extracted_fields": 12,
+    "total_entities": 18,
+    "total_relations": 12,
+    "timestamp": "2026-07-05 23:38:51"
+  },
+  {
+    "document_id": "82573104",
+    "model": "LayoutLMv3",
+    "processing_time_ms": 0.118,
+    "extracted_fields": 8,
+    "total_entities": 17,
+    "total_relations": 8,
+    "timestamp": "2026-07-05 23:39:01"
+  },
+  {
+    "document_id": "83641919_1921",
+    "model": "LayoutLMv3",
+    "processing_time_ms": 0.666,
+    "extracted_fields": 120,
+    "total_entities": 103,
+    "total_relations": 142,
+    "timestamp": "2026-07-05 23:39:12"
+  },
+  {
+    "document_id": "93106788",
+    "model": "Baseline",
+    "processing_time_ms": 0.078,
+    "extracted_fields": 20,
+    "total_entities": 47,
+    "total_relations": 20,
+    "timestamp": "2026-07-05 23:41:48"
+  },
+  {
+    "document_id": "93106788",
+    "model": "LayoutLM",
+    "processing_time_ms": 0.1,
+    "extracted_fields": 20,
+    "total_entities": 47,
+    "total_relations": 20,
+    "timestamp": "2026-07-05 23:41:52"
+  },
+  {
+    "document_id": "87594142_87594144",
+    "model": "LayoutLM",
+    "processing_time_ms": 0.219,
+    "extracted_fields": 54,
+    "total_entities": 71,
+    "total_relations": 54,
+    "timestamp": "2026-07-05 23:41:55"
+  },
+  {
+    "document_id": "82251504",
+    "model": "LayoutLM",
+    "processing_time_ms": 0.3,
+    "extracted_fields": 24,
+    "total_entities": 42,
+    "total_relations": 24,
+    "timestamp": "2026-07-05 23:44:49"
+  },
+  {
+    "document_id": "82251504",
+    "model": "LayoutLMv3",
+    "processing_time_ms": 0.316,
+    "extracted_fields": 24,
+    "total_entities": 42,
+    "total_relations": 24,
+    "timestamp": "2026-07-05 23:44:52"
+  },
+  {
+    "document_id": "82252956_2958",
+    "model": "LayoutLMv3",
+    "processing_time_ms": 0.224,
+    "extracted_fields": 20,
+    "total_entities": 42,
+    "total_relations": 46,
+    "timestamp": "2026-07-05 23:44:58"
+  },
+  {
+    "document_id": "82253058_3059",
+    "model": "LayoutLMv3",
+    "processing_time_ms": 0.296,
+    "extracted_fields": 30,
+    "total_entities": 43,
+    "total_relations": 38,
+    "timestamp": "2026-07-05 23:45:06"
+  },
+  {
+    "document_id": "83641919_1921",
+    "model": "LayoutLMv3",
+    "processing_time_ms": 0.881,
+    "extracted_fields": 120,
+    "total_entities": 103,
+    "total_relations": 142,
+    "timestamp": "2026-07-05 23:45:13"
+  },
+  {
+    "document_id": "86328049_8050",
+    "model": "LayoutLMv3",
+    "processing_time_ms": 2.148,
+    "extracted_fields": 76,
+    "total_entities": 84,
+    "total_relations": 80,
+    "timestamp": "2026-07-05 23:45:28"
+  },
+  {
+    "document_id": "87125460",
+    "model": "LayoutLMv3",
+    "processing_time_ms": 0.479,
+    "extracted_fields": 44,
+    "total_entities": 27,
+    "total_relations": 44,
+    "timestamp": "2026-07-05 23:46:54"
+  },
+  {
+    "document_id": "93106788",
+    "model": "LayoutLMv3",
+    "processing_time_ms": 0.17,
+    "extracted_fields": 20,
+    "total_entities": 47,
+    "total_relations": 20,
+    "timestamp": "2026-07-05 23:47:04"
+  },
+  {
+    "document_id": "92380595",
+    "model": "LayoutLMv3",
+    "processing_time_ms": 0.984,
+    "extracted_fields": 44,
+    "total_entities": 83,
+    "total_relations": 50,
+    "timestamp": "2026-07-05 23:47:30"
+  },
+  {
+    "document_id": "91814768_91814769",
+    "model": "LayoutLMv3",
+    "processing_time_ms": 0.478,
+    "extracted_fields": 58,
+    "total_entities": 75,
+    "total_relations": 66,
+    "timestamp": "2026-07-05 23:47:35"
+  },
+  {
+    "document_id": "87528380",
+    "model": "LayoutLMv3",
+    "processing_time_ms": 1.025,
+    "extracted_fields": 58,
+    "total_entities": 108,
+    "total_relations": 114,
+    "timestamp": "2026-07-05 23:47:41"
+  },
+  {
+    "document_id": "87332450",
+    "model": "LayoutLMv3",
+    "processing_time_ms": 0.172,
+    "extracted_fields": 12,
+    "total_entities": 48,
+    "total_relations": 12,
+    "timestamp": "2026-07-05 23:47:46"
+  },
+  {
+    "document_id": "86244113",
+    "model": "LayoutLMv3",
+    "processing_time_ms": 0.132,
+    "extracted_fields": 16,
+    "total_entities": 24,
+    "total_relations": 16,
+    "timestamp": "2026-07-05 23:47:54"
+  },
+  {
+    "document_id": "83996357",
+    "model": "LayoutLMv3",
+    "processing_time_ms": 0.236,
+    "extracted_fields": 34,
+    "total_entities": 43,
+    "total_relations": 34,
+    "timestamp": "2026-07-05 23:48:01"
+  },
+  {
+    "document_id": "83553333_3334",
+    "model": "LayoutLMv3",
+    "processing_time_ms": 0.418,
+    "extracted_fields": 62,
+    "total_entities": 51,
+    "total_relations": 62,
+    "timestamp": "2026-07-05 23:48:05"
+  },
+  {
+    "document_id": "82253058_3059",
+    "model": "LayoutLMv3",
+    "processing_time_ms": 0.425,
+    "extracted_fields": 30,
+    "total_entities": 43,
+    "total_relations": 38,
+    "timestamp": "2026-07-05 23:48:10"
+  },
+  {
+    "document_id": "82200067_0069",
+    "model": "LayoutLMv3",
+    "processing_time_ms": 0.404,
+    "extracted_fields": 62,
+    "total_entities": 64,
+    "total_relations": 82,
+    "timestamp": "2026-07-05 23:48:14"
+  },
+  {
+    "document_id": "82837252",
+    "model": "LayoutLMv3",
+    "processing_time_ms": 0.171,
+    "extracted_fields": 18,
+    "total_entities": 24,
+    "total_relations": 18,
+    "timestamp": "2026-07-05 23:48:18"
+  },
+  {
+    "document_id": "83635935",
+    "model": "LayoutLMv3",
+    "processing_time_ms": 0.099,
+    "extracted_fields": 8,
+    "total_entities": 17,
+    "total_relations": 8,
+    "timestamp": "2026-07-05 23:48:22"
+  }
+]
